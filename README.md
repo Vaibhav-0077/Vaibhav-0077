@@ -13,6 +13,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 * 💻 Full-Stack Developer focused on the MERN stack
 * 🌱 Continuously learning and improving my development skills
 * 🛠️ Interested in building real-world web applications
+* 🤖 Exploring AI-assisted development and modern AI tools
 * 🔍 Currently looking for Full-Stack / MERN Developer opportunities
 * 📍 Mumbai, Maharashtra, India
 
@@ -26,6 +27,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
@@ -35,6 +37,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Database
@@ -51,16 +54,16 @@ I enjoy turning ideas into real-world applications and continuously improving my
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
----
+### AI & Development
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-0077&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-0077&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<p>
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-6C63FF?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
@@ -89,6 +92,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 * 🗄️ Database Optimization
 * 🐳 Docker
 * ☁️ Deployment & Cloud Technologies
+* 🤖 AI-Assisted Development
 * 🏗️ Production-ready Application Architecture
 
 ---
